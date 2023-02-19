@@ -164,9 +164,7 @@ https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/7y1SZJ8/Miami-TVlatino.png",Miami TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/chunklist_b1896000.m3u8?cc
-https://5ee7c2b857b7f.streamlock.net/latino/smil:WEB/chunklist_b1896000.m3u8?cc
+https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/0tzF5wx/ccrunway.jpg",Runway
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vse2-as-all81.secdn.net/runway-origin/live/runway/chunklist_sess278968327.m3u8?cc
@@ -177,8 +175,7 @@ https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://dl.dropboxusercontent.com/s/7awwznzagcaqoup/
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/j5thmmF/Mid9-cc.png",Midnite Secrets
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dl.dropboxusercontent.com/s/nb9fvwvbizx688l/	
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 
 #-*--NEWS-*--#
 
